@@ -1,0 +1,8 @@
+c:\users\win7\documents\visual studio 2015\Projects\DZ02\DZ02\bin\Debug\DZ02.exe.config
+c:\users\win7\documents\visual studio 2015\Projects\DZ02\DZ02\bin\Debug\DZ02.exe
+c:\users\win7\documents\visual studio 2015\Projects\DZ02\DZ02\bin\Debug\DZ02.pdb
+c:\users\win7\documents\visual studio 2015\Projects\DZ02\DZ02\obj\Debug\DZ02.csprojResolveAssemblyReference.cache
+c:\users\win7\documents\visual studio 2015\Projects\DZ02\DZ02\obj\Debug\DZ02.exe
+c:\users\win7\documents\visual studio 2015\Projects\DZ02\DZ02\obj\Debug\DZ02.pdb
+c:\users\win7\documents\visual studio 2015\Projects\DZ02\DZ02\bin\Debug\Models.dll
+c:\users\win7\documents\visual studio 2015\Projects\DZ02\DZ02\bin\Debug\Models.pdb

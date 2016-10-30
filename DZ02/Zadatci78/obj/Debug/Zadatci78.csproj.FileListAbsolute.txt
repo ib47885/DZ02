@@ -1,0 +1,6 @@
+c:\Users\Win7\documents\visual studio 2015\Projects\DZ02\Zadatci78\bin\Debug\Zadatci78.exe.config
+c:\Users\Win7\documents\visual studio 2015\Projects\DZ02\Zadatci78\bin\Debug\Zadatci78.exe
+c:\Users\Win7\documents\visual studio 2015\Projects\DZ02\Zadatci78\bin\Debug\Zadatci78.pdb
+c:\Users\Win7\documents\visual studio 2015\Projects\DZ02\Zadatci78\obj\Debug\Zadatci78.csprojResolveAssemblyReference.cache
+c:\Users\Win7\documents\visual studio 2015\Projects\DZ02\Zadatci78\obj\Debug\Zadatci78.exe
+c:\Users\Win7\documents\visual studio 2015\Projects\DZ02\Zadatci78\obj\Debug\Zadatci78.pdb

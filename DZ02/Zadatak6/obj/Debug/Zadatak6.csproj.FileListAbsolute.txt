@@ -1,0 +1,5 @@
+c:\Users\Win7\documents\visual studio 2015\Projects\DZ02\Zadatak6\bin\Debug\Zadatak6.exe.config
+c:\Users\Win7\documents\visual studio 2015\Projects\DZ02\Zadatak6\bin\Debug\Zadatak6.exe
+c:\Users\Win7\documents\visual studio 2015\Projects\DZ02\Zadatak6\bin\Debug\Zadatak6.pdb
+c:\Users\Win7\documents\visual studio 2015\Projects\DZ02\Zadatak6\obj\Debug\Zadatak6.exe
+c:\Users\Win7\documents\visual studio 2015\Projects\DZ02\Zadatak6\obj\Debug\Zadatak6.pdb
